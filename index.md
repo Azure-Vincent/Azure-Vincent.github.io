@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+The contents of this blog will largely revolve around my journey learning Security and IT concepts. 
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+certifications in progress: CompTIA Network+, CISCO CCNA
+certifications acquired: none yet
