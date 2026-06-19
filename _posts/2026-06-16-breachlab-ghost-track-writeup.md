@@ -318,6 +318,7 @@ diff passwords.new passwords.old
 **Flag:** `D1ff_Sp0ts_1t`
 
 **Takeaway:** `diff` is invaluable for spotting changes in config files, password lists, and logs. In incident response, diffing a suspicious file against a known-good baseline is perfect for spotting changes.
+
 ---
 
 ## Level 17 → 18 — No Shell For You
@@ -505,7 +506,7 @@ The bonus message pointed to the next track: **PHANTOM** — 30 levels of Linux 
 **Takeaway:** Always enumerate. The official scope is never the whole picture.
 
 ---
-**Final Takeaway:** As someone who has only delved into linux over the last 6 months this Ghost wargame was a lot of fun and super informative!
+**Final Thoughts:** As someone who has only delved into linux over the last 6 months this Ghost wargame was a lot of fun and super informative!
 I think wargames like Breachlab: Ghost and Bandit OvertheWire are really helpful with getting new linux users accustomed to a "Curiosity First" mindset that is invaluable to 
 Blue and Red teaming.
 *Ghost Track completed.*
