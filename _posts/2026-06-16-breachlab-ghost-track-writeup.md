@@ -206,7 +206,8 @@ sort data.txt | uniq
 
 **Flag:** `Str1ngs_R3v34l`
 
-**Takeaway:** Sorting and reducing multiple instances of something are core data analysis skills. 
+**Takeaway:** Sorting and reducing multiple instances of something are core data analysis skills.
+
 ---
 
 ## Level 11 → 12 — Wrapped Three Deep
