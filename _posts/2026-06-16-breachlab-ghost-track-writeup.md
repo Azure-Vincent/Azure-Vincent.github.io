@@ -90,8 +90,10 @@ There are 500 record files in the vault directory. I found that two approaches w
 # Find the outlier by file size — record_0334 was smaller than all others
 ls -la record_* | sort -k5 -n
 
-# Or search for the anomaly directly -- Note: grep requires you to either guess or already know the word or phrase.
-# In this instance I had already seen that the flag was attached to this CREDENTIALS keyword and with that hindsight it makes it very easy to search for. 
+# Or search for the anomaly directly -- Note: grep requires you to either
+# guess or already know the word or phrase.
+# In this instance I had already seen that the flag was attached to this
+# CREDENTIALS keyword and with that hindsight it makes it very easy to search for. 
 grep -i CREDENTIALS record_*
 ```
 
