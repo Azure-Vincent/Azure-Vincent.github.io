@@ -5,18 +5,18 @@ date: 2026-06-15
 author: Vincent Altvater
 categories: [ctf, writeup, linux]
 ---
-![BreachLab:Ghost header](assets/images/breachlab/Ghost.PNG)
+![BreachLab:Ghost header](/assets/images/breachlab/Ghost.PNG)
 
 This is a full walkthrough of the BreachLab Ghost Track wargame series.
 Each level builds on core Linux skills used daily in real security work — enumeration, decoding, process inspection, privilege escalation, and more.
 
 
 *NOTE:* Be mindful of your terminal customizations, BreachLab has Black and Gray text within the instructions for each level and if your terminal is too dark, you may find yourself in the dark.
-![terminal showing text color contrast](assets/images/breachlab/colored_text.PNG)
+![terminal showing text color contrast](/assets/images/breachlab/colored_text.PNG)
 ---
 
 ## Level 0 → 1 — First Contact
-[!terminal image showing: First Contact](assets/images/breachlab/First_Contact.png)
+[!terminal image showing: First Contact](/assets/images/breachlab/First_Contact.png)
 
 **Tools:** `ls`, `cat`
 
