@@ -12,7 +12,7 @@ Each level builds on core Linux skills used daily in real security work — enum
 
 
 *NOTE:* Be mindful of your terminal customizations, BreachLab has Black and Gray text within the instructions for each level and if your terminal is too dark, you may find yourself in the dark.
-![terminal showing text color contrast](assets/images/breachlab/First_Contact.png)
+![terminal showing text color contrast](/assets/images/breachlab/First_Contact.png)
 ---
 
 ## Level 0 → 1 — First Contact
